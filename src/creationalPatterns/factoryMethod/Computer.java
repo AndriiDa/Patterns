@@ -1,4 +1,4 @@
-package creationalPatterns.FactoryMethod;
+package creationalPatterns.factoryMethod;
 
 //известен интерфейс, но не известно зарание какая реализация
 public interface Computer {

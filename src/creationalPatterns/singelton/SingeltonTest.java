@@ -1,4 +1,4 @@
-package creationalPatterns.Singelton;
+package creationalPatterns.singelton;
 
 public class SingeltonTest {
     public static void main(String[] args) {

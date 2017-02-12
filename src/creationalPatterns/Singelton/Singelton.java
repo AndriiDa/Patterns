@@ -1,4 +1,4 @@
-package Singelton;
+package creationalPatterns.Singelton;
 
 //подкл к БД, конфиг настройки
 //в многопоточности пробл

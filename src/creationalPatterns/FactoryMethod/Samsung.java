@@ -1,4 +1,4 @@
-package FactoryMethod;
+package creationalPatterns.FactoryMethod;
 
 public class Samsung implements Computer {
     @Override

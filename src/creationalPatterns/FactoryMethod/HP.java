@@ -1,4 +1,4 @@
-package FactoryMethod;
+package creationalPatterns.FactoryMethod;
 
 public class HP implements Computer {
     @Override

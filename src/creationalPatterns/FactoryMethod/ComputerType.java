@@ -1,4 +1,4 @@
-package FactoryMethod;
+package creationalPatterns.FactoryMethod;
 
 public enum ComputerType {
     DESKTOP,

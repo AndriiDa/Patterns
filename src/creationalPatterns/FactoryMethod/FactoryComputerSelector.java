@@ -1,4 +1,4 @@
-package FactoryMethod;
+package creationalPatterns.FactoryMethod;
 
 public class FactoryComputerSelector {
     public Computer getComputer(ComputerType computerType) {

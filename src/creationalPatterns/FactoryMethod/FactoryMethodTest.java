@@ -1,4 +1,4 @@
-package FactoryMethod;
+package creationalPatterns.FactoryMethod;
 
 public class FactoryMethodTest {
     public static void main(String[] args) {
